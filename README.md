@@ -144,7 +144,7 @@ Export from your NLE as usual. VideoVCS watches in the background and auto-saves
 | **Free** | ₹0 | 2 projects, 10 saves per project |
 | **Pro (Lifetime)** | ₹999 one-time (~$19) | Unlimited projects & saves, AI summaries, shareable review links, client feedback portals, PDF exports |
 
-> 💡 **Free Pro access** for early adopters who provide feedback — [reach out](mailto:farinattar@gmail.com)!
+> 💡 **Free Pro access** for early adopters who provide feedback — [reach out](mailto:farinattar99@gmail.com)!
 
 ---
 
@@ -163,7 +163,7 @@ Want to see VideoVCS in action? Here's the flow:
 ## 📬 Connect
 
 - 🌐 **Website**: [vvcs.tech](https://vvcs.tech)
-- 📧 **Email**: [farinattar@gmail.com](mailto:farinattar@gmail.com)
+- 📧 **Email**: [farinattar99@gmail.com](mailto:farinattar99@gmail.com)
 - 🐙 **GitHub**: [FARINATTAR](https://github.com/FARINATTAR)
 
 ---
